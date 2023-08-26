@@ -1,0 +1,1 @@
+script_execute(enemyStates_array[state]);
